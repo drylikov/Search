@@ -1,5 +1,5 @@
 {
-    "name": "search"
+    "name": "Search"
   , "version": "1.0.0"
   , "description": "faster 'ack' written with nodejs"
   , "keywords": ["ack", "grep", "search"]
@@ -9,7 +9,6 @@
   , "main": "index"
   , "engines": { "node": ">= 0.4.x < 0.7.0" }
 }
-
 
 
 
