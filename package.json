@@ -1,0 +1,11 @@
+{
+    "name": "search"
+  , "version": "1.0.0"
+  , "description": "faster 'ack' written with nodejs"
+  , "keywords": ["ack", "grep", "search"]
+  , "author": "Denis Rylikov <denis.rylikov@protonmail.com>"
+  , "dependencies": { "commander": "0.3.2" }
+  , "bin": { "search": "./bin/search" }
+  , "main": "index"
+  , "engines": { "node": ">= 0.4.x < 0.7.0" }
+}
